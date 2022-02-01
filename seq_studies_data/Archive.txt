@@ -1,0 +1,14 @@
+https://cbioportal-datahub.s3.amazonaws.com/brca_cptac_2020.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/brca_metabric.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/brca_smc_2018.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/brca_tcga_pub2015.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/brca_tcga.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/brca_tcga_pub.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/brca_tcga_pan_can_atlas_2018.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/mel_dfci_2019.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/skcm_dfci_2015.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/mel_ucla_2016.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/skcm_mskcc_2014.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/skcm_tcga_pan_can_atlas_2018.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/mel_tsam_liang_2017.tar.gz
+https://cbioportal-datahub.s3.amazonaws.com/skcm_tcga.tar.gz
